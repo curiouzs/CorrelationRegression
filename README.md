@@ -58,7 +58,7 @@ plt.show()
 
 
 # Output : 
-
+maths.png
 
 # Result:
 Thus the given data has been analysed and coeffificient of correlation has been found and regression line is plotted .
