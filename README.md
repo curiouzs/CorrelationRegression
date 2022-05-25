@@ -58,7 +58,8 @@ plt.show()
 
 
 # Output : 
-maths.png
+<img width="419" alt="maths" src="https://user-images.githubusercontent.com/75234646/170188636-e64f13f3-205b-4800-9fdb-55a6ad34e6e4.png">
+
 
 # Result:
 Thus the given data has been analysed and coeffificient of correlation has been found and regression line is plotted .
