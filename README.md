@@ -1,5 +1,6 @@
-## DATE: 04/11/2022
 ## EXP. NO: 04
+### DATE: 04.11.2022
+
 # Correlation and Regression for Data Analysis
 # Aim : 
 To analyse given data using  coeffificient of correlation and regression line.
