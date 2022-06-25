@@ -1,3 +1,5 @@
+## DATE: 04/11/2022
+## EXP. NO: 04
 # Correlation and Regression for Data Analysis
 # Aim : 
 To analyse given data using  coeffificient of correlation and regression line.
@@ -11,7 +13,7 @@ Correlation describes the strength of an association between two variables, and 
 If y represents the dependent variable and x the independent variable, this relationship is described as the regression of y on x. The relationship can be represented by a simple equation called the regression equation. The regression equation representing how much y changes with any given change of x can be used to construct a regression line on a scatter diagram, and in the simplest case this is assumed to be a straight line.
 
 # Procedure :
-<img src ="https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png" width ="200" height="100">
+<img src ="https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png" width ="300" height="200">
 
 # Program:
 ```python
